@@ -149,8 +149,8 @@ img {
   .header-container {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 24px;
-    padding-top: 24px;
+    /* padding-bottom: 24px;
+    padding-top: 24px; */
   }
 }
   
@@ -1261,7 +1261,7 @@ img {
 }
 
 @media (min-width: 768px) {
-  .menu-toggle {
+  .menu-toggle-header {
     display: none;
   }
 }
